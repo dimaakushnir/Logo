@@ -1,9 +1,7 @@
 @charset "UTF-8";
 
-@import url("https://fonts.googleapis.com/css2?family=Play:wght@700&family=Roboto:wght@300;
-
-400;500;700;900&display=swap&subset=cyrillic-ext");
 @import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Play:wght@700&family=Roboto:wght@300;400;500;700;900&display=swap&subset=cyrillic-ext");
 @font-face {
   font-family: UniSansHeavy;
   font-display: swap;
